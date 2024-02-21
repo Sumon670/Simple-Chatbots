@@ -1,0 +1,7 @@
+//// Currency Convertor chatbot made by - Sumon Chatterjee
+
+//// Tech Stack: Python, Dialogflow
+
+1. website - https://bot.dialogflow.com/825cdaf4-d6a5-4ebe-9f25-df886b2c2cd9
+
+2. telegram - currconvtbot
